@@ -1,0 +1,283 @@
+[
+    {
+        "id": 1,
+        "title": "Netflix",
+        "jenis": "Movie",
+        "image": "../img/netflix.png",
+        "category": {
+            "1Profile1User 1 Hari": "5k", 
+            "1Profile1User 3 Hari": "10k",
+            "1Profile1User 5 Hari": "15k",
+            "1Profile1User 7 Hari": "20k",
+            "1Profile1User 1 Bulan": "30k",
+            "1Profile1User 2 Bulan": "50k",
+            "1Profile1User 3 Bulan":"100k",
+            "1Profile2User 1 Hari": "4k", 
+            "1Profile2User 3 Hari": "8k",
+            "1Profile2User 5 Hari": "14k",
+            "1Profile2User 7 Hari": "18k",
+            "1Profile2User 1 Bulan": "28k",
+            "1Profile2User 2 Bulan": "60k",
+            "1Profile2User 3 Bulan":"80k",
+             "Private 1 Bulan": "50k",
+            "Private 2 Bulan": "100k",
+            "Private 3 Bulan":"180k"
+        }
+    },
+    {
+        "id": 2,
+        "title": "Youtube",
+        "jenis": "Hiburan",
+        "image": "../img/youtube.png",
+        "category": {
+            "famplan 1 Bulan": "10k",
+            "famplan 2 Bulan": "15k",
+            "famplan 4 Bulan": "20k",
+            "indplan 1 Bulan": "15k",
+            "indplan 2 Bulan": "20k",
+            "Seller 4 Bulan": "30k",
+            "cust 4 Bulan": "25k",
+            "mix 6 Bulan": "40k"
+        }
+    },
+    {
+        "id": 3,
+        "title": "Remini Android",
+        "jenis": "Editor",
+        "image": "../img/remini.png",
+        "category": {
+            "Sharing 1 Bulan": "10k",
+            "Private 1 Bulan": "20k"
+        }
+    },
+    {
+        "id": 4,
+        "title": "Picsart",
+        "jenis": "Editor",
+        "image": "../img/picsart.png",
+        "category": {
+            "ios 1 Bulan": "15k",
+            "ios 2 Bulan": "25k",
+            "ios 3 Bulan": "30k",
+            "android 1 Bulan": "10k",
+            "android 2 Bulan": "15k",
+            "android 4 Bulan": "20k",
+            "Private 1 Bulan": "25k"
+        }
+    },
+    {
+        "id": 5,
+        "title": "IQiyi",
+        "jenis": "Movie",
+        "image": "../img/Iqiyi.png",
+        "category": {
+            "1 Bulan": "10k",
+            "3 Bulan": "15k", 
+            "6 Bulan": "20k",
+            "1 Tahun": "25k",
+            "1 Bulan Private": "40k"
+        }
+    },
+    {
+        "id": 6,
+        "title": "Viu",
+        "jenis": "Movie",
+        "image": "../img/viu.webp",
+        "category": {
+            "Sharing biasa 1 Bulan": "10k",
+            "Sharing biasa 3 Bulan": "15k",
+            "Sharing biasa 6 Bulan": "20k",
+            "Sharing biasa 1 Tahun": "30k",
+            "Sharing antilimit 1 Bulan": "13k",
+            "Sharing antilimit 3 Bulan": "20k",
+            "Sharing antilimit 6 Bulan": "25k",
+            "Sharing antilimit 1 Tahun": "36k"
+        }
+    },
+    {
+        "id": 7,
+        "title": "Capcut",
+        "jenis": "Editor",
+        "image": "../img/Capcut.png",
+        "category": {
+            "1 Bulan": "20k",
+            "1 Tahun": "30k"
+        }
+    },
+    {
+        "id": 8,
+        "title": "Spotify",
+        "jenis": "Music",
+        "image": "../img/Spotify.png",
+        "category": {
+            "fam 1 Bulan": "20k",
+            "fam 2 Bulan": "25k",
+            "fam 3 Bulan": "30k",
+            "indipn 1 Bulan": "25k",
+            "indipn 2 Bulan": "35k",
+            "indipn 3 Bulan": "40k"
+        }
+    },
+    {
+        "id": 9,
+        "title": "Vsco",
+        "jenis": "Editor",
+        "image": "../img/VSCO.png",
+        "category": {
+            "1 Bulan": "15k",
+            "2 Bulan": "25k"
+        }
+    },
+    {
+        "id": 10,
+        "title": "WeTv",
+        "jenis": "Movie",
+        "image": "../img/WeTV.png",
+        "category": {
+           "Sharing biasa 1 Bulan":"15k",
+           "Sharing biasa 2 Bulan":"20k",
+           "Sharing biasa 1 Thn":"25k",
+           "Sharing antilimit 1 Bulan":"15k",
+           "Sharing antilimit 3 Bulan":"25k",
+           "Sharing antilimit 1 Thn":"35k",
+           "Private 1 Bulan":"55k"
+        }
+    },
+    {
+        "id": 11,
+        "title": "Vidio",
+        "jenis": "Movie",
+        "image": "../img/Vidio.png",
+        "category": {
+           "2 User 1 Bulan":"25k",
+           "Solo Private 1 Bulan":"50k",
+           "Platinum 12 Bulan":"50k",
+           "Builk acc":"40k",
+           "Prime sharing 1 Bulan":"20k",
+           "Private 1 Bulan":"30k"
+        }
+    },
+    {
+        "id": 12,
+        "title": "AmPro",
+        "jenis": "Editor",
+        "image": "../img/ampro.png",
+        "category": {
+           "1 Bulan":"10k",
+           "1 Tahun":"20k",
+           "Private 1 Bulan":"22k",
+           "Private 1 Tahun":"55k"
+        }
+    },
+    {
+        "id": 13,
+        "title": "DazzCam",
+        "jenis": "Editor",
+        "image": "../img/dazzcam.webp",
+        "category": {
+           "Lifetime":"30k"
+        }
+    },
+    {
+        "id": 14,
+        "title": "Tiktok Music",
+        "jenis": "Hiburan",
+        "image": "../img/tiktokmusic.png",
+        "category": {
+           "fam 1 Bulan":"15k",
+           "indpin Cust 1 Bulan":"30k",
+           "indipn Seller 1 Bulan":"35k"
+        }
+    },
+    {
+        "id": 15,
+        "title": "Google Drive",
+        "jenis": "Editor",
+        "image": "../img/google_drive.png",
+        "category": {
+           "Lifetime":"30k"
+        }
+    },
+    {
+        "id": 16,
+        "title": "Hbo go",
+        "jenis": "Movie",
+        "image": "../img/HBOGO.png",
+        "category": {
+           "Sharing 1 Bulan":"20k",
+           "Sharing 3 Bulan":"40k",
+           "Solo Private 1 Bulan":"60k"
+        }
+    },
+    {
+        "id": 17,
+        "title": "Get Contact",
+        "jenis": "Editor",
+        "image": "../img/get-contact.png",
+        "category": {
+           "1 Bulan":"25k"
+        }
+    },
+    {
+        "id": 18,
+        "title": "YouKu",
+        "jenis": "Movie",
+        "image": "../img/youku.png",
+        "category": {
+           "Only Sharing 1 Bulan":"15k",
+           "Only Sharing 3 Bulan":"20k"
+        }
+    },
+    {
+        "id": 19,
+        "title": "Ms Word",
+        "jenis": "Editor",
+        "image": "../img/msword.png",
+        "category": {
+           "1 Bulan":"20k"
+        }
+    },
+    {
+        "id": 20,
+        "title": "Canva",
+        "jenis": "Editor",
+        "image": "../img/canva.webp",
+        "category": {
+           "1 Minggu":"5k",
+           "1 Bulan":"8k",
+           "3 Bulan":"10k",
+           "6 Bulan":"15k",
+           "1 Thn":"20k",
+           "Lifetime":"30k"
+        }
+    },
+    {
+        "id": 21,
+        "title": "Apple Music",
+        "jenis": "Hiburan",
+        "image": "../img/applemusic.png",
+        "category": {
+           "1 Bulan":"26k",
+           "2 Bulan":"30k"
+        }
+    },
+    {
+        "id": 22,
+        "title": "ICloud",
+        "jenis": "Hiburan",
+        "image": "../img/iCloud.png",
+        "category": {
+           "4 Bulan":"50k"
+        }
+    },
+    {
+        "id": 23,
+        "title": "Disney New",
+        "jenis": "Hiburan",
+        "image": "../img/Disney.png",
+        "category": {
+           "4 User 1 Bulan":"30k"
+        }
+    }
+   
+]
