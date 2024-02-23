@@ -39,7 +39,7 @@ const ProductList = () => {
     const handleClickBuy = (product, categoryKey) => {
     const categoryValue = selectedProduct.category[categoryKey];
     const message = `Saya ingin membeli ${product.title} yang ${categoryKey}: ${categoryValue}`;
-    const whatsappLink = `https://wa.me/085811043930/?text=${encodeURIComponent(message)}`;
+    const whatsappLink = `https://wa.me/081315025649/?text=${encodeURIComponent(message)}`;
     window.open(whatsappLink, "_blank");
 };
 
