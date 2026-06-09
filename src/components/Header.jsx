@@ -1,11 +1,23 @@
 const Header = () => {
-    return(
-        <header className="bg-green-400">
-            <div className="max-w-7xl mx-auto px-4">
-                <div className="flex items-center justify-between h-20">
-                    <h2 className="text-3xl font-bold text-gray-100">Zaputlah</h2>
-                    {/* <button type="button" className="relative rounded-full bg-green-800 p-2 text-gray-100">Cart</button> */}
-                </div>
+    return (
+        <header className="site-header">
+            <div className="page-container site-header__inner">
+                <a className="brand" href="#" aria-label="Zaputlah, kembali ke atas">
+                    <span className="brand__mark">Z</span>
+                    <span>Zaputlah</span>
+                </a>
+
+                <nav className="site-nav" aria-label="Navigasi utama">
+                    <a href="#katalog">Katalog</a>
+                    <a href="#cara-pesan">Cara pesan</a>
+                </nav>
+
+                <a className="header-cta" href="#katalog">
+                    Cek harga
+                    <svg viewBox="0 0 20 20" aria-hidden="true">
+                        <path d="M4 10h12m-5-5 5 5-5 5" />
+                    </svg>
+                </a>
             </div>
         </header>
     );
